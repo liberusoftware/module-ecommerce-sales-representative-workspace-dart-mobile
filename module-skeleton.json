@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-sales-representative-workspace-dart-mobile",
+  "capabilityKey": "planned:ecommerce:sales-representative-workspace",
+  "presentation": "dart-mobile",
+  "package": "module_ecommerce_sales_representative_workspace_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/ecommerce/nextjs/sales-representative-workspace.md",
+  "presentationPlan": "projects/ecommerce/features/sales-representative-workspace.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
